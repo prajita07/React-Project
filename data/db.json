@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "title": "caps",
+      "body": "blue color",
+      "brand": "nike",
+      "id": 2
+    },
+    {
+      "title": "socks",
+      "body": "blue color",
+      "brand": "puma",
+      "id": 3
+    },
+    {
+      "title": "shoes",
+      "body": "blue color",
+      "brand": "puma",
+      "id": 4
+    },
+    {
+      "title": "cap",
+      "body": "nnnnn",
+      "brand": "brand",
+      "id": 5
+    },
+    {
+      "title": "hat",
+      "body": "mmmmmm",
+      "brand": "brand",
+      "id": 6
+    },
+    {
+      "title": "nn",
+      "body": "nn",
+      "brand": "brand",
+      "id": 7
+    }
+  ]
+}
